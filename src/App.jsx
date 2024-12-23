@@ -4,6 +4,7 @@ function App() {
   const [name, setName] = useState("");
   const [fname, setfName] = useState("");
 
+  // for basic 
   return (
     <>
       <form>
